@@ -5,7 +5,7 @@
 Built utilising some awesome open source stuff like [Statamic v3](https://statamic.com/), [Tailwind CSS](https://tailwindcss.com/), [Alpine.js](https://github.com/alpinejs/alpine).
 
 Hosted on [Netlify](https://www.netlify.com/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/XXXXXXXXXXXXX/deploy-status)](https://app.netlify.com/sites/XXXX/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1614ad07-95a2-457c-b61f-543bbcd7e5d1/deploy-status)](https://app.netlify.com/sites/joshuablum/deploys)
 
 Fonts by [Hoefler&Co.](https://www.typography.com/)
 Content | Font family
@@ -17,5 +17,9 @@ Code snippets and monospaced font | [Operator Mono](https://www.typography.com/f
 ### TODO
 
 - [ ] upgrade to Tailwind 2.0
+    - [ ] implement dark mode
 - [ ] implement and improve syntax highlightning (highlight.js or Prism.js?)
-- [ ] 
+- [ ] add contact page
+- [ ] add archive page
+- [ ] add newsletter sign up
+- [ ] add newsletter archive
