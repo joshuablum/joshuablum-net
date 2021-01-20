@@ -5,7 +5,7 @@ data:
   social:
     -
       name: Twitter
-      url: 'https://twitter.com/josblu'
+      url: 'https://twitter.com/_joshuablum'
       icon: site/social-icons/twitter.svg
     -
       name: Github
